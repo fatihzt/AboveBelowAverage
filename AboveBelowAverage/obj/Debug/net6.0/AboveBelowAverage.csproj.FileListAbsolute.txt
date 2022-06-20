@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\bin\Debug\net6.0\AboveBelowAverage.exe
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\bin\Debug\net6.0\AboveBelowAverage.deps.json
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\bin\Debug\net6.0\AboveBelowAverage.runtimeconfig.json
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\bin\Debug\net6.0\AboveBelowAverage.dll
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\bin\Debug\net6.0\AboveBelowAverage.pdb
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.AssemblyInfo.cs
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.dll
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\refint\AboveBelowAverage.dll
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.pdb
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\AboveBelowAverage.genruntimeconfig.cache
+C:\Users\USER\source\repos\AboveBelowAverage\AboveBelowAverage\obj\Debug\net6.0\ref\AboveBelowAverage.dll
